@@ -1,0 +1,14 @@
+#outer
+{
+height:700px;
+width:100%;
+border:1px solid;
+background-color:skyblue;
+}
+#vinod
+{
+height:500px;
+width:100%;
+//border:1px solid;
+margin-top:100px;
+}

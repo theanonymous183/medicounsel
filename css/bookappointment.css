@@ -1,0 +1,41 @@
+0#outer
+{
+height:700px;
+width:1335px;
+border:1px solid;
+}
+#menu
+{
+	height:50px;
+	width:1335px;
+	border:1px solid red;
+}
+#menu ul
+{
+ text-style-type:none;
+}
+#menu ul li
+{
+	Display:inline;
+	padding:20px;
+}
+#menu ul li a
+{
+	text-decoration:none;
+}
+#menu ul li:hover
+{
+	background:-webkit-linear-gradient(Pink 60%, gray 30%)
+}
+#write
+{
+height:50px;
+width:100%;
+border:1px solid;
+}
+#one
+{
+height:400px;
+width:100%;
+border:1px solid red;
+}

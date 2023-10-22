@@ -1,0 +1,160 @@
+#outer
+{
+	height:600px;
+	width:1335px;
+	border:1px solid red;
+}
+#menu
+{
+	height:50px;
+	width:1335px;
+	border:1px solid ;
+}
+#menu ul
+{
+ text-style-type:none;
+}
+#menu ul li
+{
+	Display:inline;
+	padding:20px;
+}
+#menu ul li a
+{
+	text-decoration:none;
+}
+#menu ul li:hover
+{
+	background:-webkit-linear-gradient(Pink 60%, gray 30%)
+}
+#header
+{
+	height:416px;
+	width:300px;
+	border:1px solid red;
+	float:left;
+}
+#one
+{
+	height:50px;
+	width:300px;
+	border:1px solid red;
+	background-color:#1dbacd;
+}
+#one a
+{
+	text-decoration:none;
+}
+#one:hover
+{
+transform:scale(1.1);
+}
+#two
+{
+	height:50px;
+	width:300px;
+	border:1px solid red;
+}
+#two a
+{
+	text-decoration:none;
+}
+#three
+{
+	height:60px;
+	width:300px;
+	border:1px solid red;
+}
+#three a
+{
+	text-decoration:none;
+}
+#four
+{
+	height:60px;
+	width:300px;
+border:1px solid red;
+}
+#four a
+{
+	text-decoration:none;
+}
+#five
+{
+	height:60px;
+	width:300px;
+	border:1px solid red;
+}
+#five a
+{
+	text-decoration:none;
+}
+#six
+{
+	height:60px;
+	width:300px;
+	border:1px solid red;
+}
+#six a
+{
+	text-decoration:none;
+}
+#seven
+{
+	height:63px;
+	width:300px;
+	border:1px solid red;
+}
+#seven a
+{
+	text-decoration:none;
+}
+#about
+{
+	height:416px;
+	width:1030px;
+	border:1px solid red;
+	float:left;
+}
+#a
+{
+	height:416px;
+	width:515px;
+	//border:1px solid red;
+    float:left;
+}
+#b
+{
+	height:416px;
+	width:510px;
+	border:1px solid red;
+	float:left;
+}
+#last
+{
+	height:60px;
+	width:auto;
+border:1px solid ;
+	background-color:#808080;
+	//opacity:06px;
+}
+#last1
+{
+	height:60px;
+	width:660px;
+	border:1px solid ;
+	float:left;
+}
+#last2
+{
+	height:60px;
+	width:667px;
+	border:1px solid ;
+	float:left;
+}
+#c
+{
+	height:100px;
+	width:200px;
+	border:1px solid red;
+}
